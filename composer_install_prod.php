@@ -1,5 +1,5 @@
 <?php
-require __DIR__ . '../vendor/autoload.php'; // require composer/composer dependencies
+require __DIR__ . '/../vendor/autoload.php'; // require composer/composer dependencies
 
 use Composer\Console\Application;
 use Symfony\Component\Console\Input\ArrayInput;
